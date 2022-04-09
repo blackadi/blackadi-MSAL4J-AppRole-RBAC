@@ -23,7 +23,7 @@ To successfully use this sample, you need a working installation of [Java](https
 From your shell or command line:
 
 ```Shell
-git clone https://github.com/Azure-Samples/ms-identity-java-webapi.git
+git clone https://github.com/blackadi/blackadi-MSAL4J-AppRole-RBAC.git
 ```
 
 ### Step 3: Register the sample with your Azure Active Directory tenant
